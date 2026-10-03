@@ -5,4 +5,6 @@ bai vidu 1
 https://wokwi.com/projects/476570961622512641
 
 bai vidu 2
+https://wokwi.com/projects/476875640784998401
+
 
