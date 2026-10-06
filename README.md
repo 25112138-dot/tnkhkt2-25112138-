@@ -15,3 +15,6 @@ Bai2:
 
 bai vidu 1
 https://wokwi.com/projects/477142039838650369
+
+bai vidu 2
+https://wokwi.com/projects/477142039838650369
